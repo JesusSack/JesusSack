@@ -67,14 +67,17 @@ Diseño de almacenes de datos (Data Warehouse) para análisis corporativo.
 
 ## 📉 Actividad del Sistema (GitHub Stats)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ManuJ05&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true)
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=ManuJ05&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuJ05&layout=compact&theme=radical&hide_border=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JesusSack&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=JesusSack&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="JesusSack Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusSack&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" width="48%" />
+</div>
 
 ---
 
 <div align="center">
   <sub>>_ End of transmission. / Waiting for input... █</sub>
-</div>
 </div>
