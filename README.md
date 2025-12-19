@@ -1,11 +1,13 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=System.init(user%3D%22Jes%C3%AAs+Sack%22);%3E_AI_Engineer_%26_Backend_Dev;%3E_Loading_Neural_Networks...;%3E_Status%3A_Online_and_Ready_to_Code." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=System.init(user%3D%22Jes%C3%BAs+Sack%22);%3E_AI_Engineer_%26_Backend_Dev;%3E_Loading_Neural_Networks...;%3E_Status%3A_Online_and_Ready_to_Code." alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
   </div>
+
+---
 
 ---
 
