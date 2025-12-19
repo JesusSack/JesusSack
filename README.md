@@ -11,19 +11,19 @@
 
 ---
 
-### 📡 Transmisión Entrante: Perfil de Ingeniería
+### 📡 Incoming Transmission: Engineering Profile
 
-**¡Hola! Soy Jesús Sack.** 🤖
+**Hello! I'm Jesús Sack.** 🤖
 
-Desarrollador Backend y estudiante de la **Tecnicatura en Inteligencia Artificial (FCEIA)**. Mi especialidad es fusionar la teoría matemática con la ingeniería de software robusta, creando sistemas que **ven, analizan y deciden** en tiempo real.
+Backend Developer and **Artificial Intelligence Technician** student at **FCEIA**. My specialty lies in merging mathematical theory with robust software engineering, creating systems that **see, analyze, and decide** in real-time.
 
-> *"La magia no existe, solo es código altamente optimizado."*
+> *"Magic doesn't exist; it's just highly optimized code."*
 
 ---
 
-## 🛠️ Arsenal Tecnológico (Tech Stack)
+## 🛠️ Technological Arsenal (Tech Stack)
 
-### 👁️ Visión Artificial & Redes Neuronales
+### 👁️ Computer Vision & Neural Networks
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black)
@@ -43,31 +43,29 @@ Desarrollador Backend y estudiante de la **Tecnicatura en Inteligencia Artificia
 
 ---
 
-## 🚀 Proyectos Desplegados
+## 🚀 Deployed Projects
 
-### [📂 Repo: desafio-vision](https://github.com/ManuJ05/desafio-vision)
-**Sistema de Vigilancia Inteligente & Telemetría**
-Una arquitectura de alto rendimiento diseñada para entornos industriales simulados.
-* ⚡ **Multiprocessing:** Ejecución paralela en CPU (evitando el GIL) para 3 cámaras simultáneas.
-* ☁️ **Cloud Híbrida:** Implementación de cliente **AWS S3 (Boto3)** sobre infraestructura local.
-* 🎥 **Anti-Lag System:** Pipeline Productor-Consumidor para inferencia en tiempo real sin latencia.
-* 🧠 **Modelos:** Detección de EPP y Análisis de Actividad Humana (HAR).
+### [📂 Repo: desafio-vision](https://github.com/JesusSack/desafio-vision)
+**Intelligent Surveillance System & Telemetry**
+A high-performance architecture designed for simulated industrial environments.
+* ⚡ **Multiprocessing:** Parallel CPU execution (bypassing the GIL) for 3 simultaneous camera streams.
+* ☁️ **Hybrid Cloud:** AWS S3 (Boto3) client implementation running on local infrastructure.
+* 🎥 **Anti-Lag System:** Producer-Consumer pipeline for real-time inference without latency.
+* 🧠 **Models:** PPE Detection (Personal Protective Equipment) and Human Activity Recognition (HAR).
 
 ### 📈 Business Intelligence Suite
-Diseño de almacenes de datos (Data Warehouse) para análisis corporativo.
-* Transformación de datos crudos a **Esquemas Estrella**.
-* Dashboards interactivos con métricas complejas en **DAX**.
+Data Warehouse design for corporate analytics.
+* Transformation of raw data into **Star Schemas**.
+* Interactive dashboards featuring complex metrics built with **DAX**.
 
 ---
 
-## 🎓 Base de Datos (Educación)
+## 🎓 Database (Education)
 
-* **Tecnicatura en Inteligencia Artificial** | FCEIA - UNR (En curso)
-* **Fundamentos de Lógica & Algoritmia** | Formación sólida en cálculo proposicional.
+* **Artificial Intelligence Technician** | FCEIA - UNR (In progress)
+* **Logic & Algorithmic Fundamentals** | Strong background in propositional calculus.
 
----
-
-## 📉 Actividad del Sistema (GitHub Stats)
+## 📉 System Activity (GitHub Stats)
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JesusSack&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
