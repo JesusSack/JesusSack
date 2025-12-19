@@ -82,24 +82,29 @@ Diseño de almacenes de datos (Data Warehouse) para análisis corporativo.
 
 ---
 
+---
+
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=60&section=footer" width="100%"/>
 
-  <code>
-    <span style="color: #00FFFF">root@JesusSack:~/connections#</span> ./initiate_handshake.sh<br/>
-    >_ OPENING_PORTS: 80, 443... [OK]<br/>
-    >_ WAITING_FOR_INCOMING_DATA... █
-  </code>
+  <div style="background-color: #0d1117; border: 1px solid #FF00FF; padding: 15px; border-radius: 5px; text-align: left; font-family: 'Courier New', monospace;">
+    <code>
+      <span style="color: #39FF14;">root@JesusSack</span>:<span style="color: #00FFFF;">~/net_ops#</span> <span style="color: #FF00FF;">./initiate_handshake.sh --secure</span><br/>
+      <span style="color: #00FFFF;">>_</span> ESTABLISHING_SECURE_TUNNEL... <span style="color: #39FF14;">[SUCCESS]</span><br/>
+      <span style="color: #00FFFF;">>_</span> SCANNING_FOR_OPPORTUNITIES... <span style="color: #FF00FF;">[DETECTED]</span><br/>
+      <span style="color: #00FFFF;">>_</span> AWAITING_INPUT_STREAM... <span style="color: #00FFFF; font-weight: bold; text-shadow: 0 0 8px #00FFFF;">█</span>
+    </code>
+  </div>
 
-  <br/><br/>
+  <br/>
 
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN_AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/ESTABLISH_UPLINK-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Uplink" />
+  <a href="https://www.linkedin.com/in/jesus05/" target="_blank">
+    <img src="https://img.shields.io/badge/ESTABLISH_UPLINK-LINKEDIN-FF00FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Uplink" />
   </a>
-  &nbsp;
-  <a href="mailto:TU_EMAIL_AQUI@GMAIL.COM" target="_blank">
-    <img src="https://img.shields.io/badge/SEND_ENCRYPTED_PACKET-EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Packet" />
+  &nbsp; &nbsp;
+  <a href="Jesusmsack@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/SEND_ENCRYPTED_PACKET-EMAIL-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Packet" />
   </a>
 
 </div>
