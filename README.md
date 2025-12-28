@@ -15,18 +15,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=60&section=footer" width="100%"/>
 </div>
 
-<div align="center">
-  
-  <img src="https://i.imgur.com/8kZqCqP.png" alt="Terminal output" width="600px" />
+```bash
+root@JesusSack:~/net_ops# ./initiate_handshake.sh --secure
 
-  <br/><br/>
-
-  <a href="https://www.linkedin.com/in/jesus05/" target="_blank">
-    <img src="https://img.shields.io/badge/ESTABLISH_UPLINK-LINKEDIN-FF00FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Uplink" />
-  </a>
-  &nbsp; &nbsp;
-  <a href="mailto:Jesusmsack@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/SEND_ENCRYPTED_PACKET-EMAIL-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Packet" />
-  </a>
-
-</div>
+>_ ESTABLISHING_SECURE_TUNNEL... [SUCCESS]
+>_ SCANNING_FOR_OPPORTUNITIES... [DETECTED]
+>_ AWAITING_INPUT_STREAM... █
