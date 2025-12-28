@@ -16,9 +16,8 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=500&color=39FF14&background=0D1117&center=true&vCenter=true&width=600&lines=root%40JesusSack%3A~%2Fnet_ops%23+.%2Finitiate_handshake.sh+--secure;%3E_ESTABLISHING_SECURE_TUNNEL...+%5BSUCCESS%5D;%3E_SCANNING_FOR_OPPORTUNITIES...+%5BDETECTED%5D;%3E_AWAITING_INPUT_STREAM..._%E2%96%88" alt="Terminal Output" />
-  </a>
+  
+  <img src="https://i.imgur.com/8kZqCqP.png" alt="Terminal output" width="600px" />
 
   <br/><br/>
 
@@ -26,7 +25,7 @@
     <img src="https://img.shields.io/badge/ESTABLISH_UPLINK-LINKEDIN-FF00FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Uplink" />
   </a>
   &nbsp; &nbsp;
-  <a href="mailto:Jesusmsack@hotmail.com">
+  <a href="mailto:Jesusmsack@hotmail.com" target="_blank">
     <img src="https://img.shields.io/badge/SEND_ENCRYPTED_PACKET-EMAIL-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Packet" />
   </a>
 
